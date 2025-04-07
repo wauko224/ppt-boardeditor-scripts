@@ -1,2 +1,1 @@
-sudo apt update
-sudo apt install -y wget ca-certificates
+sudo dpkg --instdir=/home/deck/mono-complete -i /path/to/mono-complete*.deb
