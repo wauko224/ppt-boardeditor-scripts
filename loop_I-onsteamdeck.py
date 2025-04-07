@@ -1,1 +1,2 @@
-https://mono-project.com/」
+sudo apt update
+sudo apt install -y wget ca-certificates
