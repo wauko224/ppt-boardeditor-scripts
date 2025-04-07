@@ -1,1 +1,2 @@
-https://download.mono-project.com/index.html
+sudo apt update
+sudo apt install mono-complete
