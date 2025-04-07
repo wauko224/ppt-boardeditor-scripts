@@ -1,1 +1,1 @@
-flatpak install --user org.freedesktop.Sdk.Extension.mono6
+https://download.mono-project.com/index.html
