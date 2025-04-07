@@ -1,1 +1,2 @@
-sudo dpkg --instdir=/home/deck/mono-complete -i /path/to/mono-complete*.deb
+sudo apt update
+sudo apt install dpkg
