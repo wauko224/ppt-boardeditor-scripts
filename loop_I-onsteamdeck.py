@@ -1,2 +1,1 @@
-sudo apt update
-sudo apt install mono-complete
+https://mono-project.com/」
