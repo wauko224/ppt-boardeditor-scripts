@@ -1,1 +1,1 @@
-sudo ./Ventoy2Disk.sh -i /dev/mmcblk0
+ventoy-1.0.99-linux.tar.gz
