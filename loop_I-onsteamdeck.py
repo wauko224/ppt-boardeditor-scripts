@@ -1,1 +1,1 @@
-cd ventoy-1.1.05
+sudo ./Ventoy2Disk.sh -i /dev/mmcblk0
