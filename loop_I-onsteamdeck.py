@@ -1,1 +1,1 @@
-wget https://download.mono-project.com/download/stable/sdks/mono-6.x.x.tar.xz
+sudo ./Ventoy2Disk.sh -i /dev/mmcblk0
