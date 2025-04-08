@@ -1,1 +1,1 @@
-ventoy-1.0.99-linux.tar.gz
+cd ventoy-1.1.05
