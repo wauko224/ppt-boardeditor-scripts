@@ -1,1 +1,1 @@
-sudo ./Ventoy2Disk.sh -i /dev/mmcblk0
+https://www.microsoft.com/software-download/windows11
